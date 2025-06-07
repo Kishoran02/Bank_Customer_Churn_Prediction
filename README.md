@@ -57,11 +57,11 @@ EDA involves:
 
 ## Modeling
 
-Various machine learning models are applied and compared, including:
+A machine learning model is applied such as:
 
 - Logistic Regression
-- Random Forest
-- Gradient Boosting
+
+
 
 ## Evaluation
 

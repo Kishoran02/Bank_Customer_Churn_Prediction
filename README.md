@@ -11,7 +11,6 @@ This project focuses on predicting customer churn for a bank using various data 
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
 - [Conclusion](#conclusion)
-- [How to Run](#how-to-run)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
 - [License](#license)

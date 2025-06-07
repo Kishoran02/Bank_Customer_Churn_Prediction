@@ -84,7 +84,3 @@ The project concludes with a summary of findings, the best-performing model, and
 - matplotlib
 - seaborn
 - Jupyter Notebook
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
